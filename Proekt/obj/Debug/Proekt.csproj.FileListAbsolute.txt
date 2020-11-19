@@ -1,0 +1,10 @@
+D:\Fakultet\VI semestar\Vizuelno programiranje\Proekt\Proekt\Proekt\bin\Debug\Proekt.exe.config
+D:\Fakultet\VI semestar\Vizuelno programiranje\Proekt\Proekt\Proekt\bin\Debug\Proekt.exe
+D:\Fakultet\VI semestar\Vizuelno programiranje\Proekt\Proekt\Proekt\bin\Debug\Proekt.pdb
+D:\Fakultet\VI semestar\Vizuelno programiranje\Proekt\Proekt\Proekt\obj\Debug\Proekt.csprojAssemblyReference.cache
+D:\Fakultet\VI semestar\Vizuelno programiranje\Proekt\Proekt\Proekt\obj\Debug\Proekt.Form1.resources
+D:\Fakultet\VI semestar\Vizuelno programiranje\Proekt\Proekt\Proekt\obj\Debug\Proekt.Properties.Resources.resources
+D:\Fakultet\VI semestar\Vizuelno programiranje\Proekt\Proekt\Proekt\obj\Debug\Proekt.csproj.GenerateResource.cache
+D:\Fakultet\VI semestar\Vizuelno programiranje\Proekt\Proekt\Proekt\obj\Debug\Proekt.csproj.CoreCompileInputs.cache
+D:\Fakultet\VI semestar\Vizuelno programiranje\Proekt\Proekt\Proekt\obj\Debug\Proekt.exe
+D:\Fakultet\VI semestar\Vizuelno programiranje\Proekt\Proekt\Proekt\obj\Debug\Proekt.pdb
